@@ -24,8 +24,6 @@ section{
 }
 .top-banner{background-image: url(images/top-banner.png);
 background-repeat: no-repeat;}
-.half{
-    display: block;
-    width: 50%;
+.half{width: 50%;
     padding: 5% 8%;}
 .half img{width: 80%;}
