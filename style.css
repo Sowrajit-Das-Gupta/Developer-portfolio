@@ -27,3 +27,7 @@ background-repeat: no-repeat;}
 .half{width: 50%;
     padding: 5% 8%;}
 .half img{width: 80%;}
+.dream-big{background-image: url(images/dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+}
